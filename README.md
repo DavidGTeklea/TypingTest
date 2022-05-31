@@ -7,7 +7,7 @@ Keeps track of how many games you've played
 
 ![image](https://user-images.githubusercontent.com/87445117/171230906-81fcebe5-2375-43a4-81c7-dcb4796e2418.png)
 
-Tests user against random lines from green eggs and ham 
+Tests user against random lines from Green Eggs and Ham 
 
 ![image](https://user-images.githubusercontent.com/87445117/171230970-c9e51472-46dd-47d3-ba21-f8a78726f633.png)
 ![image](https://user-images.githubusercontent.com/87445117/171231166-25ce2c52-c340-4643-a8dc-f282404af940.png)
